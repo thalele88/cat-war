@@ -1,6 +1,7 @@
-# Cat War: Aliança dos Gatos
+# Cat War: Aliança dos Gatos (BETA)
 
 Jogo de estratégia com gatos contra cachorros, feito por Thales com o Claude (IA).
+O jogo está em **beta**: é uma versão de teste para os amigos, e ainda vai mudar bastante.
 
 ## Como jogar (Windows)
 
